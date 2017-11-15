@@ -1,2 +1,2 @@
-# devopsbuddy
-Example
+# devopsbudds
+
